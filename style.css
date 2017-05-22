@@ -360,7 +360,7 @@ label { font-weight:normal; margin-bottom:0px; }
     width: 77%;
     margin-right: 5%;
     outline: none;
-    border: solid 5px #000;
+    border: solid 3px #fd0000;
     padding: 0px 10px;
     background: #ffd300;
     margin-left: 3%;
@@ -457,7 +457,7 @@ label { font-weight:normal; margin-bottom:0px; }
 .applicationFeetc th { text-align:center; padding:12px 20px !important;}
 .applicationFeetc th:nth-child(1) { text-align:left; background-color:#eeeeee;}
 
-.applicationFeetc tr td { text-align:center; padding:12px 20px !important;}
+.applicationFeetc tr td { text-align:center; padding:12px 20px ;}
 .applicationFeetc tr td:nth-child(1) {text-align:left; background-color:#eeeeee;}
 
 .btnCb { text-align:center !important; margin:auto; margin:20px 0px 0px 0px;}
