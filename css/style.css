@@ -348,10 +348,11 @@ label { font-weight:normal; margin-bottom:0px; }
     padding: 0px 10px;
     background: #ffd300;
     margin-left: 3%;
+	text-align:center;
 }
 .formtextboxThree { border: solid 1px #fff; height:28px; line-height:40px; color:#333; font-size:14px; width:100%; outline:none; border: solid 1px #EAEAEA; padding:0px 10px; }
 .formtextboxfour { border: solid 1px #fff; height:60px; line-height:16px; color:#333; font-size:14px; width:100%; outline:none; border: solid 1px #EAEAEA; padding:0px 10px; }
-.formtextboxSeven {
+.formtextboxfive {
     border: solid 1px #fff;
     height: 28px;
     line-height: 25px;
@@ -360,10 +361,11 @@ label { font-weight:normal; margin-bottom:0px; }
     width: 77%;
     margin-right: 5%;
     outline: none;
-    border: solid 3px #fd0000;
+    border: solid 3px #f00;
     padding: 0px 10px;
     background: #ffd300;
     margin-left: 3%;
+    text-align:center;
 }
 .tableTitle { font-size:20px; font-family: 'Segoe UI';  font-weight:bold !important; padding:10px 20px !important;}
 
@@ -372,10 +374,9 @@ label { font-weight:normal; margin-bottom:0px; }
 .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
     border-top: 1px solid rgb(221, 221, 221);
     line-height: 1.42857;
-    padding: 5px  20px;
+    padding: 5px  10px;
     vertical-align: top;
 }
-
 
 /* --------------------- footer css ------------------------------------------------------*/
 
@@ -411,7 +412,7 @@ label { font-weight:normal; margin-bottom:0px; }
 .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
     border-top: 1px solid rgb(221, 221, 221);
     line-height: 1.42857;
-    padding: 5px 20px;
+    padding: 5px 10px;
     vertical-align: middle;
 }
 
@@ -457,7 +458,7 @@ label { font-weight:normal; margin-bottom:0px; }
 .applicationFeetc th { text-align:center; padding:12px 20px !important;}
 .applicationFeetc th:nth-child(1) { text-align:left; background-color:#eeeeee;}
 
-.applicationFeetc tr td { text-align:center; padding:12px 20px !important;}
+.applicationFeetc tr td { text-align:center; padding:12px 20px ;}
 .applicationFeetc tr td:nth-child(1) {text-align:left; background-color:#eeeeee;}
 
 .btnCb { text-align:center !important; margin:auto; margin:20px 0px 0px 0px;}
